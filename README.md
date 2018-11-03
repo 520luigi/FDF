@@ -7,4 +7,7 @@ Run the code by calling makefile. The minilibx library only works on macos, so t
 
 Once the makefile is made, an executable fdf is created. 
 
-Use '''./fdf maps/[map name]''' to run the executable on any of the maps provided. 
+Use the following code to run the executable with a map file to test it out!
+'''
+./fdf maps/[map name]
+''' 
